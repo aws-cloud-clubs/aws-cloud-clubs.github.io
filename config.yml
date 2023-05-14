@@ -1,0 +1,78 @@
+---
+baseURL: "https://aws-cloud-clubs.github.io/"
+title: AWS Student Clubs
+theme: papermod
+buildFuture: true
+paginate: 5
+
+minify:
+  disableXML: true
+
+outputs:
+  home:
+    - HTML
+    - JSON
+
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+
+params:
+  env: production
+  description: AWS Student Clubs
+  author: Subin Kim
+
+  ShowShareButtons: false
+  ShowReadingTime: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: false
+
+  homeInfoParams:
+    Title: AWS Student Clubs
+    Content: |
+      ☁️ AWS Student Club은 AWS 기술에 관심있는 대학생들이 모여 클라우드 기술을 공부하고 전파하는 대학 단위의 AWS 동아리예요.
+
+      🙋🏻 8개의 대학과 각 학교에서 선발된 10명의 캡틴이 함께하고 있으며, 이 10명의 캡틴들은 AWSKRUG University Student Group(AUSG)의 활동 멤버들이에요.
+
+  profileMode:
+    enabled: true
+    title: AWS Student Clubs
+    imageUrl: "/images/logo.png"
+    imageTitle: AWS Student Clubs Logo
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: Intro
+        url: intro
+      - name: Namseoul University
+        url: series/namseoul-university
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/aws-cloud-clubs"
+    - name: notion
+      url: "https://ausg-7th.notion.site/2023-AWS-Student-Club-f943ac414afa45659f0440b03e0fb2af"
+
+  editPost:
+    URL: "https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/tree/main/content"
+    Text: "Edit"
+    appendFilePath: true
+
+  assets:
+    disableHLJS: true
+    favicon: "/images/favicon.ico"
+    favicon16x16: "/images/favicon-16x16.png"
+    favicon32x32: "/images/favicon-32x32.png"
+
+  cover:
+    hiddenInSingle: true
+    responsiveImages: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
