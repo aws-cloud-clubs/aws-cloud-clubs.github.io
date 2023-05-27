@@ -10,4 +10,4 @@ AWS Student Club은 AWS 기술에 관심있는 대학생들이 모여 클라우�
 아래 목록에서 각 대학 별 활동 기록을 확인할 수 있어요.
 
 - 남서울대학교: [`/series/namseoul-university`](/series/namseoul-university)
-- 경희대학교: [`/series/Kyunghee-university`](/series/Kyunghee-university)
+- 경희대학교: [`/series/kyung-hee-university`](/series/kyung-hee-university)
