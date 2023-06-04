@@ -40,7 +40,7 @@ params:
   profileMode:
     enabled: true
     title: AWS Student Clubs
-    imageUrl: "/images/logo.png"
+    # imageUrl: "/images/logo.png"
     imageTitle: AWS Student Clubs Logo
     imageWidth: 200
     imageHeight: 200
@@ -69,9 +69,9 @@ params:
 
   assets:
     disableHLJS: true
-    favicon: "/images/favicon.ico"
-    favicon16x16: "/images/favicon-16x16.png"
-    favicon32x32: "/images/favicon-32x32.png"
+    # favicon: "/images/favicon.ico"
+    # favicon16x16: "/images/favicon-16x16.png"
+    # favicon32x32: "/images/favicon-32x32.png"
 
   cover:
     hiddenInSingle: true
