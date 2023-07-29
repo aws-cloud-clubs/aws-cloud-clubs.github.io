@@ -13,3 +13,4 @@ AWS Student Club은 AWS 기술에 관심있는 대학생들이 모여 클라우�
 - 경희대학교: [`/series/kyung-hee-university`](/series/kyung-hee-university)
 - 서울과학기술대학교: [`/series/seoultech`](/series/seoultech)
 - 숭실대학교: [`/series/soongsil-university`](/series/soongsil-university)
+- 충남대학교 [`/series/chungnam-national-university`](/series/chungnam-national-university)
