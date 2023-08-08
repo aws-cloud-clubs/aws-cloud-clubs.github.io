@@ -2,7 +2,14 @@
 title: "OT - 앞으로의 여정 및 네트워킹"
 date: "2023-05-20"
 author: "Sumin Kim"
-series: ["Namseoul University", "Kyung Hee University", "SEOULTECH", "Soongsil University"]
+series:
+  [
+    "Namseoul University",
+    "Kyung Hee University",
+    "SEOULTECH",
+    "Soongsil University",
+    "Inha University",
+  ]
 tags: ["Meetup", "Offline"]
 ---
 

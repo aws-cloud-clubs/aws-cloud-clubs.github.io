@@ -57,6 +57,8 @@ params:
         url: series/soongsil-university
       - name: Chungnam National University
         -url: series/chungnam-national-university
+      - name: Inha University
+        -url: series/inha-university
 
   socialIcons:
     - name: github
