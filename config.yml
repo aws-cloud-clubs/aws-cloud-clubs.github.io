@@ -56,11 +56,11 @@ params:
       - name: Soongsil University
         url: series/soongsil-university
       - name: Chungnam National University
-        -url: series/chungnam-national-university
+        url: series/chungnam-national-university
       - name: Inha University
-        -url: series/inha-university
+        url: series/inha-university
       - name: Sookmyung Women's University
-        -url: series/sookmyung-university
+        url: series/sookmyung-university
 
   socialIcons:
     - name: github
