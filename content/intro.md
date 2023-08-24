@@ -15,4 +15,4 @@ AWS Student Club은 AWS 기술에 관심있는 대학생들이 모여 클라우�
 - 숭실대학교: [`/series/soongsil-university`](/series/soongsil-university)
 - 충남대학교 [`/series/chungnam-national-university`](/series/chungnam-national-university)
 - 인하대학교 [`/series/inha-university`](/series/inha-university)
-- 숙명여자대학교 [`/series/sookmyung-university`](/series/sookmyung-university)
+- 숙명여자대학교 [`/series/sookmyung-womens-university`](/series/sookmyung-womens-university)

@@ -60,7 +60,7 @@ params:
       - name: Inha University
         url: series/inha-university
       - name: Sookmyung Women's University
-        url: series/sookmyung-university
+        url: series/sookmyung-womens-university
 
   socialIcons:
     - name: github
