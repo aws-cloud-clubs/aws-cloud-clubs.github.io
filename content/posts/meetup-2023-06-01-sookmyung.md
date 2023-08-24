@@ -36,5 +36,5 @@ policy에 정의해야 하는 내용을 좀 더 세부적으로 살펴보았고,
 ![image](https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/70079416/a68c39b1-4dd3-4973-8545-98fb60e1513c)
 ![image](https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/70079416/6962c89c-ae3f-4d09-93b0-fa7d666a4de1)
 ![image](https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/70079416/b72b04d4-18c0-4837-b130-e9a2ca4ce043)
-![image](https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/70079416/7265ffc3-be4b-4f3d-b377-e6a1d88aa3be)
+![image](https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/70079416/9a3a0e26-7bbe-456b-9a0b-33b7860e1335)
 
