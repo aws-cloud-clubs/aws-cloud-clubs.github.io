@@ -2,7 +2,7 @@
 title: "연합 세션 - 첫 번째 세션"
 date: "2023-06-24"
 author: "Subin Kim"
-series: ["Namseoul University", "Kyung Hee University", "SEOULTECH", "Soongsil University"]
+series: ["Namseoul University", "Kyung Hee University", "SEOULTECH", "Soongsil University", "Sookmyung Women's University"]
 tags: ["Conference", "Offline"]
 ---
 

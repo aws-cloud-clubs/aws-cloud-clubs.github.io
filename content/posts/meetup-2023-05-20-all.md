@@ -9,6 +9,7 @@ series:
     "SEOULTECH",
     "Soongsil University",
     "Inha University",
+    "Sookmyung Women's University"
   ]
 tags: ["Meetup", "Offline"]
 ---
