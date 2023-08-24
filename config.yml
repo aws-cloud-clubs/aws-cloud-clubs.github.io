@@ -59,6 +59,8 @@ params:
         -url: series/chungnam-national-university
       - name: Inha University
         -url: series/inha-university
+      - name: Sookmyung Women's University
+        -url: series/sookmyung-university
 
   socialIcons:
     - name: github
