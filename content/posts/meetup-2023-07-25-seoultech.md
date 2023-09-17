@@ -33,4 +33,4 @@ tags: ["Meetup", "Offline"]
 
 
 ## Images
-<img width="538" alt="image" src="https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/49095587/be983cef-7be7-4101-8e29-972259e6167c">
+![IMG](https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/49095587/be983cef-7be7-4101-8e29-972259e6167c)

@@ -31,7 +31,6 @@ MLOps에 관심있는 김연수 친구가 MLOps 서비스, **SageMaker**에 대�
 
 
 ## Images
-<img width="648" alt="image" src="https://github.com/yexjin/yexjin/assets/49095587/024443f1-5457-42b9-ae35-135ab5674832">
-<img width="661" alt="image" src="https://github.com/yexjin/yexjin/assets/49095587/6a372ad2-f81d-4427-975e-a14125642694">
-<img width="661" alt="image" src="https://github.com/yexjin/yexjin/assets/49095587/c7f4c9bd-9828-49c3-9525-b627c973a7ee">
-
+![IMG](https://github.com/yexjin/yexjin/assets/49095587/024443f1-5457-42b9-ae35-135ab5674832)
+![IMG](https://github.com/yexjin/yexjin/assets/49095587/6a372ad2-f81d-4427-975e-a14125642694)
+![IMG](https://github.com/yexjin/yexjin/assets/49095587/c7f4c9bd-9828-49c3-9525-b627c973a7ee)

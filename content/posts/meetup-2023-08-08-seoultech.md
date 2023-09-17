@@ -39,4 +39,4 @@ tags: ["Meetup", "Offline"]
 ## Images
 ![IMG_2945](https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/49095587/d0a7fb05-cbe8-4ac9-8080-6def19863f43)
 ![IMG_2946](https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/49095587/70b2ce20-4c2a-4848-8cfb-2fd6c39da63e)
-<img width="1162" alt="image" src="https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/49095587/2e6b0afb-48da-4f37-96ca-d4db76498244">
+![IMG](https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/49095587/2e6b0afb-48da-4f37-96ca-d4db76498244)
