@@ -1,6 +1,6 @@
 ---
 title: "숭실대학교 다섯 번째 모임 - S3, CloudFront"
-date: "2023-06-02"
+date: "2023-07-05"
 author: "Haneul Lee"
 series: ["Soongsil University"]
 tags: ["Meetup", "Offline"]
