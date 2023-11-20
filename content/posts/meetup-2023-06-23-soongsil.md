@@ -30,3 +30,4 @@ tags: ["Meetup", "Offline"]
 <img width="1454" alt="스크린샷 2023-09-02 오전 9 06 08" src="https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/50009240/747b76c5-412a-4117-8759-b590373a8d18">
 <img width="1457" alt="스크린샷 2023-09-02 오전 9 05 57" src="https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/50009240/58dd2975-0b1c-48fc-935b-39095a95e6a9">
 <img width="1454" alt="스크린샷 2023-09-02 오전 9 05 26" src="https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/50009240/bef44239-3aff-4b36-afbd-1f8e4a7492d9">
+<img width="1454" alt="스크린샷 2023-09-02 오전 9 05 26" src="https://github.com/aws-cloud-clubs/aws-cloud-clubs.github.io/assets/50009240/bef44239-3aff-4b36-afbd-1f8e4a7492d9">
