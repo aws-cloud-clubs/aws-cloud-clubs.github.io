@@ -1,6 +1,6 @@
 ---
 title: "숭실대학교 IT 동아리 연합 행사 - SSU DEVCON"
-date: "2023-00-02"
+date: "2023-09-02"
 author: "Haneul Lee"
 series: ["Soongsil University"]
 tags: ["Meetup", "Offline"]
